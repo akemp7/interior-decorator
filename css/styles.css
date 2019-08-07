@@ -1,0 +1,24 @@
+.column-2{
+  text-align:center;
+  float: left;
+  width:300px;
+}
+img{
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  margin: 10px;
+  height: 150px;
+}
+.column{
+  float:left;
+  margin: 5px;
+  text-align:center;
+}
+
+.gallery{
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+  width:100%;
+}
